@@ -33,6 +33,4 @@ un protocole validé et un benchmark de conception pour les structures flottante
 à OWC. Il vise une soumission à une revue à comité de lecture (par ex. *Renewable Energy*
 ou *Ocean Engineering*).
 
-## Licence
 
-[À compléter : MIT / Apache 2.0 / GPLv3]
